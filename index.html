@@ -5,17 +5,14 @@
     <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
 
-    <!-- marked -->
-    <script src="//qinix.com/ditto/ver/latest/marked.js"></script>
-
     <!-- highlight.js -->
-    <link rel="stylesheet" href="./css/google_code.css">
-    <script src="//qinix.com/ditto/js/highlight_8.0.min.js"></script>
+    <link rel="stylesheet" href="//cdn.rawgit.com/qinix/toyger/v0.1.2/dist/highlight/styles/solarized_dark.css">
+    <script src="//cdn.rawgit.com/qinix/toyger/v0.1.2/dist/highlight/highlight.pack.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
-    <!-- ditto -->
-    <script src="//qinix.com/ditto/ver/latest/ditto.js"></script>
-    <link rel="stylesheet" href="//qinix.com/ditto/ver/latest/ditto.css">
+    <!-- toyger -->
+    <script src="//cdn.rawgit.com/qinix/toyger/v0.1.2/dist/toyger.min.js"></script>
+    <link rel="stylesheet" href="//cdn.rawgit.com/qinix/toyger/v0.1.2/dist/theme/white.css">
 </head>
 <body>
     <!-- essential -->
@@ -29,19 +26,18 @@
     <div id="error"></div>
 
     <script>
-        // essential settings
-        ditto.index = "README.md",
-        ditto.sidebar_file = "sidebar.md",
+     toyger.run({
+         // essential settings
+         index: "README.md",
+         sidebar_file: "sidebar.md",
 
-        // optional settings if you want github search
-        ditto.github_username = "qinix";
-        ditto.github_repo = "wiki.qinix.com";
+         // optional settings if you want github search
+         github_username: "qinix",
+         github_repo: "wiki.qinix.com",
 
-        // where the docs are actually stored on github - so you can edit
-        ditto.base_url = "https://github.com/qinix/wiki.qinix.com/edit/gh-pages";
-
-        // run
-        ditto.run();
+         // where the docs are actually stored on github - so you can edit
+         base_url: "https://github.com/qinix/wiki.qinix.com/edit/gh-pages"
+     });
     </script>
 </body>
 </html>
