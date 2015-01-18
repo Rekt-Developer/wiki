@@ -1,7 +1,7 @@
-# [Eric's Wiki](http://wiki.qinix.com)
+# [Eric's Wiki]()
 
 - [Github Repository](http://github.com/qinix/wiki.qinix.com)
 
-[ditto:searchbar]
+[toyger:searchbar]
 
 ## Header 2
