@@ -2,10 +2,20 @@
 #+TITLE: Eric Zhang's Wiki
 
 * Programming
-+ [[file:WebDesign.org][WebDesign]]
++ [[file:AR.org][增强现实]]
++ [[file:BCI.org][脑机接口]]
++ [[file:Quant.org][量化交易]]
++ [[file:DataAnalysis.org][数据分析]]
++ [[file:Spider.org][爬虫]]
++ [[file:Ruby.org][Ruby]]
++ [[file:Bitcoin.org][Bitcoin]]
 
-* Web
 * Tools
++ [[file:Emacs.org][Emacs]]
++ [[file:VPN.org][VPN]]
+
 * Design
+
 * Tips
+
 * Others

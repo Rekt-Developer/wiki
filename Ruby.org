@@ -1,0 +1,4 @@
+* Tools
++ [[https://github.com/intridea/grape][grape]] - An opinionated micro-framework for creating REST-like APIs in Ruby.
++ [[http://mongoid.org][Mongoid]] - An opinionated micro-framework for creating REST-like APIs in Ruby.
++ [[https://github.com/CanCanCommunity/cancancan][cancancan]] - Authorization gem for Ruby on Rails.

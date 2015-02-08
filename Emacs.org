@@ -1,0 +1,8 @@
+* Articles
++ [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
++ [[http://www.cnblogs.com/holbrook/archive/2012/04/12/2444992.html][org-mode: 最好的文档编辑利器，没有之一]]
++ [[http://dayigu.github.io/WhyUseOrgModeToWriteBlog.html][为什么用 org-mode 写 blog？]]
++ [[http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html][Org-mode 简明手册]]
++ [[http://www.ibm.com/developerworks/cn/education/aix/au-emacs3/][Emacs 编辑环境，第 3 部分: 高级 Emacs 文本操作]]
+* Tools
++ [[https://github.com/bbatsov/prelude][prelude]] - An enhanced Emacs distribution.

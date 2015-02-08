@@ -1,0 +1,7 @@
+* Tools
++ [[http://www.ta-lib.org][TA-Lib]] - Technical Analyses Library
++ [[http://www.quantstart.com][QuantStart]]
++ [[http://quantlib.org][QuantLib]] - A free library for quantitative finance
++ [[https://github.com/quantopian/zipline][Zipline]] - a Pythonic Algorithmic Trading Library
++ [[https://www.quantopian.com][Quantopian]] - 量化交易平台
++ [[http://pandas.pydata.org][pandas]] - Python Data Analysis Library
