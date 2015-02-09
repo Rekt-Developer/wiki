@@ -6,3 +6,8 @@
 + [[http://www.ibm.com/developerworks/cn/education/aix/au-emacs3/][Emacs 编辑环境，第 3 部分: 高级 Emacs 文本操作]]
 * Tools
 + [[https://github.com/bbatsov/prelude][prelude]] - An enhanced Emacs distribution.
+* Tips
++ C-h b 列出当前缓冲区的所有键绑定
++ C-h m 现实当前缓冲区可用的 major-mode 的命令，然后是所有的 minor-mode 的命令
++ C-h k 描述当前缓冲区的绑定到 <key> 的函数
++ 输入一个前缀，然后按 C-h，会显示出所有以该前缀开始的键绑定
