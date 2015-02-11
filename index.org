@@ -19,5 +19,4 @@
 * Tips
 
 * Others
-+ [[https://github.com/geekcompany/ResumeSample][程序员简历模版]]
-+ [[https://github.com/geekcompany/DeerResume][MarkDown 在线简历工具]]
++ [[https://github.com/geekcompany/ResumeSample][程序员简历模版]] | [[https://github.com/geekcompany/DeerResume][MarkDown 在线简历工具]]
