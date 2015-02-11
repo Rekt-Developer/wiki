@@ -1,5 +1,6 @@
 * Articles
-+ [[http://blog.dayanjia.com/2011/03/configure-freeradius-and-daloradius-on-pptp-vpn-server/][在PPTP VPN服务器上配置FreeRADIUS+daloRADIUS实现用户跟踪管理]] - CentOS 5.5
-+ [[http://www.zhukun.net/archives/7406][CentOS下给pptp限速]] - CentOS 6
-+ [[http://blog.163.com/dyc_888@126/blog/static/1004433512011112625038249/][PPTPD+MYSQL+FREERADIUS+限速方案]] - CentOS 5
-+ [[http://www.cnblogs.com/klobohyz/archive/2012/02/04/2338675.html][pptp整合freeradius打造验证VPN服务器]] - Ubuntu
++ [[http://www.cnblogs.com/klobohyz/archive/2012/02/01/2334811.html][在ubtunu使用apt-get安装和配置freeradius]]
++ [[http://www.cnblogs.com/klobohyz/archive/2012/02/04/2338675.html][pptp整合freeradius打造验证VPN服务器]]
++ [[https://www.digitalocean.com/community/tutorials/how-to-setup-your-own-vpn-with-pptp][How To Setup Your Own VPN With PPTP]]
++ [[http://www.cnblogs.com/youlechang123/archive/2011/09/29/2195013.html][ubuntu安装pptpd来架设VPN服务器]]
++ [[http://www.zhukun.net/archives/7406][CentOS下给pptp限速]]

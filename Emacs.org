@@ -6,6 +6,7 @@
 + [[http://www.ibm.com/developerworks/cn/education/aix/au-emacs3/][Emacs 编辑环境，第 3 部分: 高级 Emacs 文本操作]]
 * Tools
 + [[https://github.com/bbatsov/prelude][prelude]] - An enhanced Emacs distribution.
++ [[http://slime-user-manual-cn.readthedocs.org/en/latest/index.html][Slime 中文文档]] - Slime: 最好的 Lisp IDE
 * Tips
 + C-h b 列出当前缓冲区的所有键绑定
 + C-h m 显示当前缓冲区可用的 major-mode 的命令，然后是所有的 minor-mode 的命令
