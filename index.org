@@ -10,10 +10,12 @@
 + [[file:Ruby.org][Ruby]]
 + [[file:Bitcoin.org][Bitcoin]]
 + [[file:CommonLisp.org][Common Lisp]]
++ [[file:Paypal.org][Paypal]]
 
 * Tools
 + [[file:Emacs.org][Emacs]]
 + [[file:VPN.org][VPN]]
+
 * Design
 
 * Tips

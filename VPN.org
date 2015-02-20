@@ -4,3 +4,4 @@
 + [[https://www.digitalocean.com/community/tutorials/how-to-setup-your-own-vpn-with-pptp][How To Setup Your Own VPN With PPTP]]
 + [[http://www.cnblogs.com/youlechang123/archive/2011/09/29/2195013.html][ubuntu安装pptpd来架设VPN服务器]]
 + [[http://www.zhukun.net/archives/7406][CentOS下给pptp限速]]
++ [[https://github.com/ljcqx/LinuxRecord/blob/master/wiki/freeradius.wiki][freeradius 的一些配置]]
