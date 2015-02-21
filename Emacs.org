@@ -5,6 +5,7 @@
 + [[http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html][Org-mode 简明手册]]
 + [[http://www.ibm.com/developerworks/cn/education/aix/au-emacs3/][Emacs 编辑环境，第 3 部分: 高级 Emacs 文本操作]]
 + [[http://lifegoo.pluskid.org/wiki/EmacsAsFileManger.html][Emacs -- 强大的文件管理器]] - Dired
++ [[http://kuanyui.github.io/2014/06/21/dired-tutorial-and-essential-configs/][必備的 Dired 設定與簡易教學]]
 * Tools
 + [[https://github.com/bbatsov/prelude][prelude]] - An enhanced Emacs distribution.
 + [[http://slime-user-manual-cn.readthedocs.org/en/latest/index.html][Slime 中文文档]] - Slime: 最好的 Lisp IDE
