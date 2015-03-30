@@ -1,2 +1,5 @@
 * Tools
 + [[https://github.com/peatio/peatio][Peatio]] - An open-source, white label cryptocurrency exchange
++ [[https://blockchain.info/api/api_receive][Receive Payments API]]
++ [[https://blockchain.info/api/blockchain_wallet_api][Blockchain Wallet API]]
++ [[https://blockchain.info/tobtc?currency=CNY&value=10][比特币最新价计算API]]

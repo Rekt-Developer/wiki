@@ -11,6 +11,14 @@
 + [[file:Bitcoin.org][Bitcoin]]
 + [[file:CommonLisp.org][Common Lisp]]
 + [[file:Paypal.org][Paypal]]
++ [[file:ML.org][Machine learning]]
++ [[https://ipn.li/kernelpanic/][内核恐慌]]
++ [[https://www.tunnel.mobi][TUNNEL]]
+
+
+* 学术科研
++ [[http://www.cnki.net/][中国知网]]
+
 
 * Tools
 + [[file:Emacs.org][Emacs]]
